@@ -1,7 +1,7 @@
 /*
 @author: Dylan Graham
 @date: 6/22/2026
-@purpose: This program prompts the user to enter a temp untill the desire temp has been entered
+@purpose: This program runs 100 iterations using a count variable
 */
 
 //include the directives needed for this program
