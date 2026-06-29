@@ -14,7 +14,7 @@ using namespace std;
 int main(){
     int sumOP= 0;               // Variable that stores sum each iteration
     int minNum=0;               // starting number and increment number
-    const int maxNum=50;        // max number of iterations
+    int maxNum=50;              // max number of iterations
     int adder=10;               // adder to add 10 each iteration
     
     for (minNum; minNum< maxNum; minNum++) {          // starting at 0: until the min number is greater than 50; increment minNum by 1 each iteration

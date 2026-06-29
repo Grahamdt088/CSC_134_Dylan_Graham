@@ -12,8 +12,8 @@ using namespace std;
 
 
 int main(){
-    const int minimum= 0;       //our starting number  
-    const int maximum = 10;     //what we wish to count to
+    int minimum= 0;       //our starting number  
+    int maximum = 10;     //what we wish to count to
 
     int num;                    //will essentially be our count/what we are using to count our iterations with
 

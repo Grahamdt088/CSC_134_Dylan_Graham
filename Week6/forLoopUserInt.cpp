@@ -12,7 +12,7 @@ using namespace std;
 
 
 int main(){
-    const int minimum= 0;                               //our starting number  
+    int minimum= 0;                                     //our starting number  
     int maximum;                                        //using this to store user input
 
     cout<< "Enter a number you wish to count to: ";     //prompt user for input
