@@ -15,7 +15,7 @@ int main(){
     int minimum= 0;                                     //our starting number  
     int maximum;                                        //using this to store user input
 
-    cout<< "Enter a number you wish to count to: ";     //prompt user for input
+    cout<< "Enter the number of iterations you want: ";     //prompt user for input
     cin >>maximum;                                      //store user input as maximum
 
     int num;                                            //will be our count/what we are using to count our iterations with
