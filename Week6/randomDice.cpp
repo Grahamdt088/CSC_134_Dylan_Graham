@@ -23,7 +23,7 @@ int main(){
     int counter=1;                                                  // condition check/iterations
     int rollNumber;                                                 // used to store user input for how many rolls they want
 
-    uniform_int_distribution diceValue(min,max);                    // ****found this on page 132 program 3-25 (allows random number 1,6)
+    uniform_int_distribution diceValue(min,max);                    // ****found this on page 132 program 3-25 (rules for random number can roll numbers between 1-6)
 
 
     cout<<"How many times would you like to roll the dice?: ";      // prompt user to enter a number of rolls
