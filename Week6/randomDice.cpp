@@ -33,7 +33,7 @@ int main(){
 
     for (counter; counter<= rollNumber; counter++) {                // counter starts at 1; while it is less than or equal to user requested rolls keep going; increment counter 1 time per roll.
         
-        cout << diceValue(engine)<< endl;                           // selects the random number using the rules in line 26 then prints to console.
+        cout << diceValue(engine)<<" has been rolled."<< endl;                           // selects the random number using the rules in line 26 then prints to console.
         //cout<<counter<<endl;
         //cout<< rand(min,max)<< endl;                              // my first attempt I wanted to clean it up but also wanted to let you see where my head was on my first try.
 
